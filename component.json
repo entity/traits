@@ -1,0 +1,15 @@
+{
+  "name": "traits",
+  "repo": "entity/traits",
+  "author": "stagas",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "mixin traits into objects",
+  "keywords": [
+    "mixin",
+    "traits"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
